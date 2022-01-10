@@ -35,6 +35,12 @@ or [![Gmail Badge](https://img.shields.io/badge/-phucnguyenforwork@gmail.com-c14
 
 <!-- ## ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Phuc_Nguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/) -->
 
+## 📈 Stats
+
+[![phucnguyen1712675's GitHub stats](https://github-readme-stats.vercel.app/api?username=phucnguyen1712675)](https://github.com/phucnguyen1712675/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucnguyen1712675)](https://github.com/phucnguyen1712675/github-readme-stats)
+
 ## ❤️ Connect with me : [![Gmail Badge](https://img.shields.io/badge/-phucnguyenforwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phucnguyenforwork@gmail.com)](mailto:phucnguyenforwork@gmail.com)
 
 Credit: [phucnguyen1712675](https://github.com/phucnguyen1712675)
