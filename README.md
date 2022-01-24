@@ -7,7 +7,7 @@
 # Hi guys 👋 I'm Phuc
 
 - 🌱 I'm currently learning ReactJS
-- 👍 Looking for opportunities to join as an intern/full time in web developments.
+- 👍 Looking for opportunities to join as an fresher/full time in web developments.
 - 📫 How to reach me: phucnguyenforwork@gmail.com
 - 📝 [Resume](https://drive.google.com/drive/folders/1a6zjR_DH8ywpI7PNpcux5e86KjFhw_OX?usp=sharing)
 
